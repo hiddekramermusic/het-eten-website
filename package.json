@@ -1,0 +1,25 @@
+{
+  "name": "heteten_website",
+  "version": "1.0.0",
+  "description": "Het Eten - Sytse Kramer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "het",
+    "eten",
+    "catering",
+    "koken",
+    "locatie",
+    "festival",
+    "voedsel",
+    "crew",
+    "kok",
+    "blog",
+    "sytse",
+    "kramer"
+  ],
+  "author": "",
+  "license": "ISC"
+}
