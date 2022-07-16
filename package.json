@@ -21,5 +21,12 @@
     "kramer"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-edge": "^2.0.2",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.19",
+    "startbootstrap-clean-blog": "^6.0.8"
+  }
 }
